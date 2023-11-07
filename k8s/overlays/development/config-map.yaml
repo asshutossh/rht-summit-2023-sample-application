@@ -2,10 +2,10 @@ apiVersion: v1
 data:
   images.json: |-
     [
-      "https://es.wikipedia.org/wiki/Meme_(internet)#/media/Archivo:Dawkins-Memes.jpg",
+    
       "https://upload.wikimedia.org/wikipedia/commons/c/cf/Example_of_modern_internet_meme.jpg",
-      "http://www.thecephalopodpage.org/_images/Argojuv.JPG",
-      "https://www.lavanguardia.com/files/image_948_465/uploads/2023/07/18/64b69cdc45332.png"
+      "http://www.thecephalopodpage.org/_images/Argojuv.JPG"
+      
     ]
 kind: ConfigMap
 metadata:
