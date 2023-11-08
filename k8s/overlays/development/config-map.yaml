@@ -2,7 +2,7 @@ apiVersion: v1
 data:
   images.json: |-
     [
-    
+    "https://www.galliker.com/media/splash/Galliker_Startseite_Food_Logistics_220722_x2.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/c/cf/Example_of_modern_internet_meme.jpg",
       "http://www.thecephalopodpage.org/_images/Argojuv.JPG"
       
